@@ -45,7 +45,7 @@ If you’d like to know more about my experience, feel free to reach out I’d l
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 <a href = "https://github.com/vaibhav201102">
-  <img src = "https://img.shields.io/badge/website-003049?style=for-the-badge&logo=About.me&logoColor=white">
+  <img src = "https://img.shields.io/badge/Github-003049?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <h2>My Tech Stack</h2>
 <p>
