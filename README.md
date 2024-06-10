@@ -118,15 +118,6 @@ If you’d like to know more about my experience, feel free to reach out I’d l
       <img src="https://img.shields.io/badge/Hilt-6200ea?logo=&logoColor=white&style=for-the-badge" style="max-width: 100%;">
     </a>
     <a>
-      <img src="https://img.shields.io/badge/AndroidX-3ddc84?logo=&logoColor=white&style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/AndroidX_Core_KTX-3ddc84?logo=android&logoColor=white&style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/AndroidX_AppCompat-3ddc84?logo=android&logoColor=white&style=for-the-badge" style="max-width: 100%;">
-    </a>
-    <a>
       <img src="https://img.shields.io/badge/Material_Design-4285F4?logo=google&logoColor=white&style=for-the-badge" style="max-width: 100%;">
     </a>
     <a>
