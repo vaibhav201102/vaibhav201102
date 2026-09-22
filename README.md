@@ -1,25 +1,26 @@
-# Hi there 👋, I'm Vaibhav Joshi
+# 👋 Hi, I'm Vaibhav Joshi
 
 <h1 align="center">
-  Mobile Application Developer | Flutter | Android | iOS
+  Senior Mobile Application Developer
 </h1>
 
+<h3 align="center">
+  Flutter • Android • iOS • Clean Architecture • Mobile Engineering
+</h3>
+
 <p align="center">
-  <b>Building production-ready mobile applications, scalable architectures, and modern UI experiences.</b>
+  Building scalable, secure, and production-ready mobile applications.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-joshi-042698212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/vaibhav201102" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://pub.dev/packages/liquid_morph_ui" target="_blank">
     <img src="https://img.shields.io/badge/pub.dev-Liquid%20Morph%20UI-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  </a>
-  <a href="https://github.com/vaibhav201102" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/mr._joshi._84/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -27,49 +28,120 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a **Mobile Application Developer with 3+ years of industry experience**, working primarily with **Flutter and Native Android**, while also having experience with **Native iOS development**.
+I'm a **Senior Mobile Application Developer with 3.5+ years of full-time experience**, specializing in **Flutter, Native Android, and Native iOS development**.
 
-I enjoy taking an application from an idea or requirement to a production-ready product, with a strong focus on:
+I work across the complete mobile application lifecycle, from **requirement analysis and system design to development, testing, optimization, and Play Store / App Store deployment**.
 
-* Scalable and maintainable application architecture
-* Clean and reusable UI components
-* REST API and third-party service integration
-* Firebase and cloud-based features
-* Performance optimization
-* Debugging and troubleshooting
-* Secure mobile application development
-* CI/CD and release management
-* Building reusable Flutter packages and components
+I've worked on and managed **15+ client projects** across healthcare, e-commerce, education, delivery, industrial, lifestyle, employee management, agriculture, and IoT domains.
 
-Currently, I work at **Bpointer Technologies**, where I started as an Android Developer and later moved into **Flutter development**, while continuing to work across multiple mobile technologies.
+My core focus areas include:
 
-I've worked on and maintained **12+ mobile projects** across domains including healthcare, e-commerce, education, delivery, employee management, agriculture, finance/payment integrations, and device/IoT-related applications.
+* 📱 Cross-platform and native mobile development
+* 🏗️ Scalable application architecture
+* 🧩 Reusable and maintainable components
+* 🌐 REST APIs and real-time WebSocket communication
+* 🔥 Firebase and cloud integrations
+* 🔐 Mobile application security
+* 💳 Payment gateways and subscriptions
+* 🏥 Healthcare and ABHA integrations
+* 🚀 CI/CD and production releases
+* ⚡ Performance optimization and crash analysis
+* 👥 Technical collaboration and team leadership
 
----
-
-## 💼 Current Work
-
-### Bpointer Technologies
-
-**Android Developer → Flutter Developer**
-📍 Pune, Maharashtra | 🏢 On-site
-
-Currently working on multiple Flutter and mobile application projects and contributing across development, architecture, debugging, integrations, and maintenance.
-
-One of the major projects I am currently involved in is the **C5 Scribe Solution Project**, where I have:
-
-* Restructured the application's architecture
-* Implemented **BLoC-based architecture**
-* Worked on scalable Flutter application structure
-* Managed and supported multiple Flutter development tasks
-* Contributed to application maintenance and production improvements
-* Worked with a team of Flutter developers
+I also enjoy building reusable developer tools and experimenting with modern Flutter UI systems.
 
 ---
 
-## 🛠️ What I Work With
+## 💼 Professional Experience
 
-### 📱 Mobile Development
+### 🏢 Zingworks LLP
+
+**Software Developer**
+📅 Apr 2026 – Present
+📍 Pune, Maharashtra, India
+
+Currently leading a team of Flutter developers and working on the **C5 Scribe Solution**, a clinical documentation and medical workflow automation platform.
+
+**Key responsibilities and contributions:**
+
+* Leading a team of Flutter developers
+* Working on the C5 Scribe Solution
+* Restructuring the application architecture using **BLoC**
+* Improving scalability, maintainability, and code organization
+* Implementing **Dart Define** for environment-specific configurations
+* Creating a reusable **BLoC-based project template**
+* Standardizing project setup for future Flutter applications
+
+---
+
+### 🏢 Bpointer Technologies Pvt. Ltd.
+
+**Mobile Application Developer**
+📅 Mar 2025 – Mar 2026
+📍 Pune, Maharashtra, India
+
+Worked on **15+ Native Android and Flutter client projects**, handling development, maintenance, optimization, and production releases.
+
+**Key contributions:**
+
+* Managed end-to-end development of multiple client applications
+* Worked directly with clients on requirements and technical solutions
+* Participated in system design and implementation
+* Implemented **CI/CD pipelines**
+* Developed real-time features using **WebSockets**
+* Integrated **ABHA healthcare workflows**
+* Integrated payment gateways including **Easebuzz and Cashfree**
+* Worked on application stability, scalability, and performance
+* Handled production debugging and crash analysis
+* Supported reliable Play Store and App Store deployments
+
+---
+
+### 🏢 Maahi IT
+
+**Mobile Application Developer**
+📅 Aug 2024 – Mar 2025
+📍 Vadodara, Gujarat, India
+
+* Developed cross-platform applications using **Flutter**
+* Deployed applications to both **Google Play Store and Apple App Store**
+* Integrated SQLite and third-party APIs
+* Optimized application workflows and responsiveness
+* Communicated directly with clients regarding project updates and deliveries
+
+---
+
+### 🏢 Tuple Infotech
+
+**Android Developer**
+📅 Aug 2023 – Aug 2024
+📍 Vadodara, Gujarat, India
+
+* Developed native Android applications using **Kotlin**
+* Implemented **MVVM and Android Jetpack components**
+* Built delivery and e-commerce applications
+* Integrated Firebase and Google Cloud services
+* Implemented analytics and production application features
+* Focused on user experience and application performance
+
+---
+
+### 🏢 Tuple Infotech
+
+**Android Developer Intern**
+📅 Mar 2023 – Aug 2023
+📍 Vadodara, Gujarat, India
+
+* Worked with Kotlin, JSON, and Firebase
+* Supported debugging and troubleshooting
+* Assisted with performance improvements
+* Gained practical experience working with live mobile applications
+
+---
+
+# 🛠️ Technical Skills
+
+## 📱 Mobile Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -77,7 +149,17 @@ One of the major projects I am currently involved in is the **C5 Scribe Solution
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </p>
 
-### 💻 Languages
+**Specialization:**
+
+* Flutter for Android & iOS
+* Native Android
+* Native iOS
+* Cross-platform application development
+* Mobile application lifecycle management
+
+---
+
+## 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -86,15 +168,22 @@ One of the major projects I am currently involved in is the **C5 Scribe Solution
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
-### 🧩 Flutter State Management
+---
 
-<p>
-  <img src="https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Riverpod-087EA4?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
+## 🧩 Flutter & State Management
 
-### 🏗️ Architecture & Design Patterns
+* BLoC
+* Riverpod
+* Provider
+* Flutter SDK
+* Dart Define
+* Environment Variables
+* Reusable Flutter components
+* Custom widgets
+
+---
+
+## 🏗️ Architecture & Design Patterns
 
 * BLoC Architecture
 * MVVM
@@ -102,86 +191,164 @@ One of the major projects I am currently involved in is the **C5 Scribe Solution
 * Clean Architecture
 * Repository Pattern
 * Dependency Injection
-* SOLID principles
-* Reusable component architecture
+* Android Jetpack
+* Modular and reusable architecture
 
-### 🌐 API & Networking
+---
+
+## 🤖 Android Development
+
+* Android SDK
+* Kotlin
+* Java
+* Android Jetpack
+* Room
+* SQLite
+* Hilt
+* Dagger
+* Material Design
+* Custom Views
+* Navigation
+* Performance optimization
+* Memory optimization
+
+---
+
+## 🍎 iOS Development
+
+* Swift
+* UIKit
+* Xcode
+* Core Data
+* Auto Layout
+* ActivityKit
+* Live Activities
+* Dynamic Island
+* APNs
+* TestFlight
+* App Store Connect
+
+---
+
+## 🌐 API & Networking
 
 <p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge">
   <img src="https://img.shields.io/badge/Volley-CC0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/OkHttp-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WebSocket-333333?style=for-the-badge">
 </p>
 
 Experienced with:
 
-* RESTful API integration
-* Authentication and authorization
-* JSON parsing
-* Error handling
-* SSL certificate pinning
-* API debugging and optimization
-* Google Maps and geocoding integrations
+* RESTful APIs
+* HTTP
+* JSON
+* Gson
+* Retrofit
+* Volley
+* Dio
+* WebSockets
+* Third-party API integrations
+* Real-time application features
 
-### 🔥 Firebase
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</p>
-
-Experience with:
+## 🔥 Firebase
 
 * Firebase Authentication
-* Cloud Firestore
-* Realtime Database
 * Firebase Cloud Messaging
+* Firestore
+* Realtime Database
 * Crashlytics
 * App Distribution
+* Firebase Cloud Services
 
-### 💳 Payment Integrations
+---
 
-Experienced in integrating mobile payment solutions including:
+## 🔐 Mobile Application Security
+
+* SSL/TLS
+* HTTPS
+* SSL Certificate Pinning
+* API Security
+* Secure Data Handling
+* Jailbreak Detection
+
+---
+
+## 🔔 Push Notifications
+
+* Firebase Cloud Messaging (FCM)
+* Apple Push Notification Service (APNs)
+* Local Notifications
+
+---
+
+## 💳 Payments & Subscriptions
+
+Experienced with:
 
 * Razorpay
 * Easebuzz
 * Cashfree
 * Stripe
 * PhonePe
+* In-App Purchases
+* App Store Subscriptions
 
-### 💾 Databases & Local Storage
+---
+
+## 🏥 Healthcare Integrations
+
+* ABHA Integration
+* Healthcare workflows
+* Clinical documentation workflows
+
+---
+
+## 💾 Databases & Storage
 
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Room-59666C?style=for-the-badge">
   <img src="https://img.shields.io/badge/Core%20Data-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 
-### ☁️ Cloud, Maps & Integrations
+---
 
-* Google Maps
-* Geocoding APIs
-* Firebase services
-* ABHA healthcare integrations
-* REST APIs
-* Third-party SDK integrations
-* IoT / BLE device communication
-
-### 🧪 Testing & Quality
+## 🧪 Testing & Quality
 
 * Unit Testing
 * UI Testing
+* Integration Testing
+* Crash Analysis
 * Debugging & Troubleshooting
-* Crash analysis
-* Performance optimization
-* Production issue investigation
+* Performance Optimization
+* Memory Optimization
+* Application Stability
+* Scalability
 
-### 🔧 Development Tools
+---
+
+## 🚀 CI/CD & Release
+
+* Fastlane
+* CI/CD Pipelines
+* Google Play Console
+* App Store Connect
+* TestFlight
+* CocoaPods
+* Swift Package Manager
+* Gradle
+* ADB
+* Xcodebuild
+
+---
+
+## 🔧 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
@@ -195,25 +362,22 @@ Experienced in integrating mobile payment solutions including:
 Also experienced with:
 
 * SourceTree
-* CI/CD
-* Fastlane
-* Android build & release workflows
-* iOS build & signing workflows
-* GitHub Actions
+* Gradle
+* ADB
+* Xcodebuild
+* Android Studio
+* Xcode
+* VS Code
 
 ---
 
-## 📦 Open Source
+# 📦 Open Source
 
-### 💧 Liquid Morph UI
+## 💧 Liquid Morph UI
 
-I recently created and published my own Flutter package:
+I created and published **Liquid Morph UI**, a reusable Flutter package focused on modern **Glassmorphism and Liquid Glass UI experiences**.
 
-**`liquid_morph_ui`**
-
-A reusable Flutter UI kit focused on modern **Glassmorphism and Liquid Glass UI** experiences.
-
-It includes reusable components such as:
+### ✨ Highlights
 
 * Liquid Glass Bottom Navigation
 * Glass & Liquid Glass Cards
@@ -225,103 +389,256 @@ It includes reusable components such as:
 * `.asGlass()` extensions
 * `.asLiquidGlass()` extensions
 
-📦 **Package:**
+📦 **View the package on pub.dev:**
+
 https://pub.dev/packages/liquid_morph_ui
 
-This project is part of my interest in building **reusable Flutter components and developer-focused packages**.
+---
+
+# 🚀 Selected Projects
+
+## 🏥 C5 Scribe Solution
+
+Clinical documentation and medical workflow automation platform.
+
+**Key work:**
+
+* Leading Flutter development
+* BLoC architecture restructuring
+* Dart Define environment configuration
+* Reusable Flutter project template
+* Scalable application architecture
 
 ---
 
-## 🚀 Projects I've Worked On
+## 🧠 Relief Plus
 
-Some of the applications and projects I've contributed to include:
+Mental health application developed for the **Mansik Shakti Foundation**.
 
-* **C5 Scribe Solution**
-* **Hindavi Graphics**
-* **Family Medicine Flashback (FMF)**
-* **Food Music Love (FML)**
-* **Om Industries**
-* **AgrrowMart**
-* **Zydex WP**
-* **Bplace**
-* **Proper Learning**
-* **Quizie**
-* **E-commerce Customer App**
-* **E-commerce Delivery App**
-* **Employee Management System**
-* **Dairy Management System**
-* **RFID Tag Reader App**
-
-My work has covered areas such as:
-
-📦 E-commerce
-🚚 Delivery & logistics
-🏥 Healthcare
-📚 Education & learning
-💳 Payments & subscriptions
-🌾 Agriculture
-👥 Employee management
-📡 BLE / IoT
-📊 Data-driven applications
+The application enables students to assess stress and anxiety and provides personalized insights and counselor support.
 
 ---
 
-## 🔬 Things I'm Exploring
+## 🎨 Hindavi Graphics
 
-I'm continuously expanding my knowledge beyond day-to-day mobile development.
+A culturally focused design application for creating:
 
-Currently exploring and strengthening my skills in:
+* Festival posts
+* Greetings
+* Custom designs
 
-* Jetpack Compose
+Includes:
+
+* Design libraries
+* Push notifications
+* Offline mode
+
+---
+
+## 🍔 FML – Food Music Love
+
+Lifestyle application for a multi-location pub chain in Pune.
+
+Features include:
+
+* Table booking
+* Music playlists
+* Time-based offers
+
+---
+
+## 🛒 AgrrowMart
+
+E-commerce platform featuring:
+
+* Category-based listings
+* Product browsing
+* Checkout flow
+* Payment gateway integration
+
+---
+
+## 🌍 Zydex WP
+
+Corporate application showcasing **200+ products across 40+ countries**.
+
+Focused on:
+
+* Product presentation
+* Internal communication
+* Lead generation
+
+---
+
+## 🏭 Om Industries
+
+Industrial and construction equipment store application.
+
+---
+
+## 📍 Bplace
+
+SMB marketing and engagement application with:
+
+* Wishlists
+* Push notifications
+* Real-time offers
+
+---
+
+## 📚 Proper Learning
+
+Educational application for **NEET, AIIMS, and JEE** aspirants.
+
+Features:
+
+* Adaptive lessons
+* Mock tests
+* Learning workflows
+
+---
+
+## 🧠 Quizie
+
+Interactive quiz-based learning application for children.
+
+Includes leaderboard tracking and educational content.
+
+---
+
+## 🚚 E-commerce Applications
+
+### Customer App
+
+* User registration
+* Category-based products
+* OTP authentication
+* Real-time order tracking
+
+### Delivery App
+
+* Delivery personnel dashboard
+* Live order routing
+* Google Maps integration
+
+### Store App
+
+* Product management
+* Order tracking
+* Push notifications
+
+---
+
+## 👥 Employee Management System
+
+Application for:
+
+* Attendance
+* Task management
+* Leave tracking
+* Role-based access
+
+---
+
+## 🥛 Dairy Management System
+
+Automates:
+
+* Milk collection
+* Billing
+* Supplier records
+* Reporting
+
+---
+
+## 📡 RFID Tag Reader App
+
+RFID-based application that:
+
+* Reads RFID tags
+* Displays tag metadata
+* Supports offline synchronization
+* Integrates with ERP workflows
+
+---
+
+# 🧠 How I Approach Development
+
+```text
+Understand
+    ↓
+Analyze Requirements
+    ↓
+Design Architecture
+    ↓
+Build Reusable Components
+    ↓
+Integrate APIs & Services
+    ↓
+Test
+    ↓
+Optimize
+    ↓
+Deploy
+    ↓
+Monitor & Improve
+```
+
+I focus on building applications that are not only functional, but also:
+
+**Scalable • Maintainable • Secure • Testable • Performant**
+
+---
+
+# 🌱 Currently Exploring
+
+I'm continuously expanding my knowledge in areas such as:
+
 * Advanced Flutter architecture
 * Flutter performance optimization
+* Jetpack Compose
 * Mobile application security
-* CI/CD automation
-* BLE and IoT application development
-* Cross-platform architecture
+* Advanced CI/CD automation
+* BLE & IoT application development
 * Modern UI systems
-* Agentic AI and AI-assisted development workflows
 * Enterprise application integrations
+* AI-assisted and agentic development workflows
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Bachelor of Engineering – Information Technology
 
 **Gujarat Technological University**
-📅 Completed: December 2024
-📈 CGPA: **8.5 / 10**
+
+📅 2024
+📈 GPA: **8.63**
+
+### 12th Science
+
+**Alembic Vidyalaya**
+
+📈 69% | 2020
+
+### 10th
+
+**Gayatri Vidyalaya**
+
+📈 84% | 2018
 
 ---
 
-## 🧠 My Development Philosophy
+# 🌐 Languages
 
-I enjoy solving problems from multiple angles rather than immediately jumping to implementation.
-
-My approach generally revolves around:
-
-```text
-Understand the problem
-        ↓
-Break it into smaller pieces
-        ↓
-Design the architecture
-        ↓
-Build reusable components
-        ↓
-Integrate & test
-        ↓
-Optimize
-        ↓
-Ship & improve
-```
-
-I believe good mobile development is not only about making an application work. It is also about making the codebase **maintainable, scalable, testable, secure, and easy for other developers to understand**.
+* 🇬🇧 English
+* 🇮🇳 Hindi
+* 🇮🇳 Gujarati
+* 🇮🇳 Marathi
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhav201102&show_icons=true&theme=tokyonight&hide_border=true" height="180">
@@ -334,19 +651,19 @@ I believe good mobile development is not only about making an application work. 
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-joshi-042698212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://pub.dev/packages/liquid_morph_ui" target="_blank">
-    <img src="https://img.shields.io/badge/pub.dev-My%20Package-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  </a>
-
   <a href="https://github.com/vaibhav201102" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://pub.dev/packages/liquid_morph_ui" target="_blank">
+    <img src="https://img.shields.io/badge/pub.dev-Liquid%20Morph%20UI-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </a>
 
   <a href="https://www.instagram.com/mr._joshi._84/" target="_blank">
@@ -355,5 +672,5 @@ I believe good mobile development is not only about making an application work. 
 </p>
 
 <p align="center">
-  <i>Building mobile experiences, experimenting with ideas, and turning problems into products. 🚀</i>
+  <i>Building mobile products, solving engineering problems, and turning ideas into production-ready applications. 🚀</i>
 </p>
